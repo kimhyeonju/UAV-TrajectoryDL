@@ -1,0 +1,137 @@
+/Users/admin/PycharmProjects/GP_test/.venv/bin/python /Users/admin/PycharmProjects/GP_test/GRU_model_training.py
+--------------------------------------------------------
+
+Processing file: inter_GreaterSapiens Flight Leg 9 SAL SFO_split_10s.csv
+/Users/admin/PycharmProjects/GP_test/GRU_model_training.py:55: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_filtered.loc[:, ['Latitude', 'Longitude', 'Altitude (m)']] = scaler.fit_transform(df_filtered[['Latitude', 'Longitude', 'Altitude (m)']])
+12/12 ━━━━━━━━━━━━━━━━━━━━ 0s 2ms/step
+12/12 ━━━━━━━━━━━━━━━━━━━━ 1s 2ms/step
+12/12 ━━━━━━━━━━━━━━━━━━━━ 0s 2ms/step
+12/12 ━━━━━━━━━━━━━━━━━━━━ 1s 2ms/step
+12/12 ━━━━━━━━━━━━━━━━━━━━ 0s 2ms/step
+Average MSE: 3.242936955058803e-05, Average Prediction Time: 0.00101 seconds
+--------------------------------------------------------
+
+Processing file: inter_GreaterSapiens Flight Leg 3 Perth Antarctica_split_10s.csv
+/Users/admin/PycharmProjects/GP_test/GRU_model_training.py:55: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_filtered.loc[:, ['Latitude', 'Longitude', 'Altitude (m)']] = scaler.fit_transform(df_filtered[['Latitude', 'Longitude', 'Altitude (m)']])
+29/29 ━━━━━━━━━━━━━━━━━━━━ 0s 10ms/step
+29/29 ━━━━━━━━━━━━━━━━━━━━ 1s 10ms/step
+29/29 ━━━━━━━━━━━━━━━━━━━━ 1s 10ms/step
+29/29 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step
+29/29 ━━━━━━━━━━━━━━━━━━━━ 0s 10ms/step
+Average MSE: 5.61997791366283e-05, Average Prediction Time: 0.00072 seconds
+--------------------------------------------------------
+
+Processing file: Flight Wolfie Dubai to LAX 54195_split_10s.csv
+/Users/admin/PycharmProjects/GP_test/GRU_model_training.py:55: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_filtered.loc[:, ['Latitude', 'Longitude', 'Altitude (m)']] = scaler.fit_transform(df_filtered[['Latitude', 'Longitude', 'Altitude (m)']])
+35/35 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step
+35/35 ━━━━━━━━━━━━━━━━━━━━ 0s 8ms/step
+35/35 ━━━━━━━━━━━━━━━━━━━━ 1s 10ms/step
+35/35 ━━━━━━━━━━━━━━━━━━━━ 1s 9ms/step
+35/35 ━━━━━━━━━━━━━━━━━━━━ 1s 16ms/step
+Average MSE: 4.580154023277505e-05, Average Prediction Time: 0.00056 seconds
+--------------------------------------------------------
+
+Processing file: Flight Wolfie Sydney Dallas Original 26381 Points_interpolation_split_10s.csv
+/Users/admin/PycharmProjects/GP_test/GRU_model_training.py:55: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_filtered.loc[:, ['Latitude', 'Longitude', 'Altitude (m)']] = scaler.fit_transform(df_filtered[['Latitude', 'Longitude', 'Altitude (m)']])
+33/33 ━━━━━━━━━━━━━━━━━━━━ 1s 9ms/step
+33/33 ━━━━━━━━━━━━━━━━━━━━ 1s 12ms/step
+33/33 ━━━━━━━━━━━━━━━━━━━━ 1s 9ms/step
+33/33 ━━━━━━━━━━━━━━━━━━━━ 1s 9ms/step
+33/33 ━━━━━━━━━━━━━━━━━━━━ 1s 9ms/step
+Average MSE: 0.0003668214269007167, Average Prediction Time: 0.00055 seconds
+--------------------------------------------------------
+
+Processing file: inter_GreaterSapiens Flight Leg 7 GRU BOG_split_10s.csv
+/Users/admin/PycharmProjects/GP_test/GRU_model_training.py:55: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_filtered.loc[:, ['Latitude', 'Longitude', 'Altitude (m)']] = scaler.fit_transform(df_filtered[['Latitude', 'Longitude', 'Altitude (m)']])
+12/12 ━━━━━━━━━━━━━━━━━━━━ 0s 21ms/step
+12/12 ━━━━━━━━━━━━━━━━━━━━ 0s 21ms/step
+12/12 ━━━━━━━━━━━━━━━━━━━━ 0s 21ms/step
+12/12 ━━━━━━━━━━━━━━━━━━━━ 1s 40ms/step
+12/12 ━━━━━━━━━━━━━━━━━━━━ 0s 21ms/step
+Average MSE: 5.6370100679253255e-05, Average Prediction Time: 0.00144 seconds
+--------------------------------------------------------
+
+Processing file: inter_GreaterSapiens Flight Leg 6 JNB GRU_split_10s.csv
+/Users/admin/PycharmProjects/GP_test/GRU_model_training.py:55: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_filtered.loc[:, ['Latitude', 'Longitude', 'Altitude (m)']] = scaler.fit_transform(df_filtered[['Latitude', 'Longitude', 'Altitude (m)']])
+23/23 ━━━━━━━━━━━━━━━━━━━━ 0s 12ms/step
+23/23 ━━━━━━━━━━━━━━━━━━━━ 0s 12ms/step
+23/23 ━━━━━━━━━━━━━━━━━━━━ 0s 12ms/step
+23/23 ━━━━━━━━━━━━━━━━━━━━ 0s 12ms/step
+23/23 ━━━━━━━━━━━━━━━━━━━━ 1s 22ms/step
+Average MSE: 4.430349864800654e-05, Average Prediction Time: 0.00079 seconds
+--------------------------------------------------------
+
+Processing file: inter_GreaterSapiens Flight Leg 1 SFO SYD_split_10s.csv
+/Users/admin/PycharmProjects/GP_test/GRU_model_training.py:55: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_filtered.loc[:, ['Latitude', 'Longitude', 'Altitude (m)']] = scaler.fit_transform(df_filtered[['Latitude', 'Longitude', 'Altitude (m)']])
+31/31 ━━━━━━━━━━━━━━━━━━━━ 1s 9ms/step
+31/31 ━━━━━━━━━━━━━━━━━━━━ 1s 10ms/step
+31/31 ━━━━━━━━━━━━━━━━━━━━ 1s 9ms/step
+31/31 ━━━━━━━━━━━━━━━━━━━━ 0s 9ms/step
+31/31 ━━━━━━━━━━━━━━━━━━━━ 1s 9ms/step
+Average MSE: 0.0003167989021483729, Average Prediction Time: 0.00056 seconds
+--------------------------------------------------------
+
+Processing file: inter_Flight Wolfie Sydney to West Coast 51449_split_10s.csv
+/Users/admin/PycharmProjects/GP_test/GRU_model_training.py:55: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_filtered.loc[:, ['Latitude', 'Longitude', 'Altitude (m)']] = scaler.fit_transform(df_filtered[['Latitude', 'Longitude', 'Altitude (m)']])
+33/33 ━━━━━━━━━━━━━━━━━━━━ 1s 19ms/step
+33/33 ━━━━━━━━━━━━━━━━━━━━ 1s 9ms/step
+33/33 ━━━━━━━━━━━━━━━━━━━━ 1s 9ms/step
+33/33 ━━━━━━━━━━━━━━━━━━━━ 1s 9ms/step
+33/33 ━━━━━━━━━━━━━━━━━━━━ 1s 9ms/step
+Average MSE: 0.00042964105467568436, Average Prediction Time: 0.00059 seconds
+Model: "sequential_39"
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━┓
+┃ Layer (type)                    ┃ Output Shape           ┃       Param # ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━┩
+│ gru_117 (GRU)                   │ (None, 10, 32)         │         3,552 │
+├─────────────────────────────────┼────────────────────────┼───────────────┤
+│ gru_118 (GRU)                   │ (None, 10, 64)         │        18,816 │
+├─────────────────────────────────┼────────────────────────┼───────────────┤
+│ gru_119 (GRU)                   │ (None, 32)             │         9,408 │
+├─────────────────────────────────┼────────────────────────┼───────────────┤
+│ dense_39 (Dense)                │ (None, 3)              │            99 │
+└─────────────────────────────────┴────────────────────────┴───────────────┘
+ Total params: 95,627 (373.55 KB)
+ Trainable params: 31,875 (124.51 KB)
+ Non-trainable params: 0 (0.00 B)
+ Optimizer params: 63,752 (249.04 KB)
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`.
+
+Process finished with exit code 0
+
+-------------------------------------
+look_back = 10
+forward_length = 5
+epoch = 50

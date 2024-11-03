@@ -1,0 +1,120 @@
+Interpolated_LLH_LA801 Santiago Auckland 27 Sep 23_takeoff.csv - Takeoff - Latitude - MSE: 0.0005440968198242287, RMSE: 0.023325883044897328, MAE: 0.023126620210541994
+Interpolated_LLH_LA801 Santiago Auckland 27 Sep 23_takeoff.csv - Takeoff - Longitude - MSE: 0.0008820767806557091, RMSE: 0.02969977745128251, MAE: 0.029667060245294623
+Interpolated_LLH_LA801 Santiago Auckland 27 Sep 23_takeoff.csv - Takeoff - Altitude (m) - MSE: 437.17276688663026, RMSE: 20.90867683251693, MAE: 18.145324458689306
+Interpolated_LLH_LA801 Santiago Auckland 27 Sep 23_takeoff.csv - Takeoff - Total - MSE: 145.72473102007692, RMSE: 6.987234164337703, MAE: 6.066039379715047
+Interpolated_LLH_SH Flight LA801 Santiago to Auckland_takeoff.csv - Takeoff - Latitude - MSE: 0.0004275923749967699, RMSE: 0.020678306869682774, MAE: 0.018396181829835198
+Interpolated_LLH_SH Flight LA801 Santiago to Auckland_takeoff.csv - Takeoff - Longitude - MSE: 0.00024984692079488166, RMSE: 0.01580654677008491, MAE: 0.01564707229395096
+Interpolated_LLH_SH Flight LA801 Santiago to Auckland_takeoff.csv - Takeoff - Altitude (m) - MSE: 724.8586252174954, RMSE: 26.92319864387394, MAE: 21.114138172425847
+Interpolated_LLH_SH Flight LA801 Santiago to Auckland_takeoff.csv - Takeoff - Total - MSE: 241.61976755226374, RMSE: 8.986561165837902, MAE: 7.049393808849878
+Interpolated_LLH_SH Flight H2601 Sao Paulo to Santiago_takeoff.csv - Takeoff - Latitude - MSE: 2.5525775225418026e-05, RMSE: 0.005052303952200226, MAE: 0.004520502152900292
+Interpolated_LLH_SH Flight H2601 Sao Paulo to Santiago_takeoff.csv - Takeoff - Longitude - MSE: 0.0004152166289744509, RMSE: 0.020376865042848247, MAE: 0.02000868087583555
+Interpolated_LLH_SH Flight H2601 Sao Paulo to Santiago_takeoff.csv - Takeoff - Altitude (m) - MSE: 814.4863449745301, RMSE: 28.539207153923005, MAE: 26.820424145557336
+Interpolated_LLH_SH Flight H2601 Sao Paulo to Santiago_takeoff.csv - Takeoff - Total - MSE: 271.49559523897807, RMSE: 9.521545440972686, MAE: 8.948317776195358
+Interpolated_LLH_Flight QFA14 Buenos Aires to Darwin_takeoff.csv - Takeoff - Latitude - MSE: 0.0005569756039780768, RMSE: 0.023600330590440397, MAE: 0.022912310932697365
+Interpolated_LLH_Flight QFA14 Buenos Aires to Darwin_takeoff.csv - Takeoff - Longitude - MSE: 0.0001951087913117276, RMSE: 0.013968134854436638, MAE: 0.013715167645901971
+Interpolated_LLH_Flight QFA14 Buenos Aires to Darwin_takeoff.csv - Takeoff - Altitude (m) - MSE: 3207.8169009847074, RMSE: 56.6375926482112, MAE: 53.993241541712266
+Interpolated_LLH_Flight QFA14 Buenos Aires to Darwin_takeoff.csv - Takeoff - Total - MSE: 1069.272551023034, RMSE: 18.891720371218693, MAE: 18.009956340096956
+Interpolated_LLH_SH Flight QF63 Sydney to Johannesburg_takeoff.csv - Takeoff - Latitude - MSE: 0.00022321031261102753, RMSE: 0.014940224650621139, MAE: 0.014638227869722563
+Interpolated_LLH_SH Flight QF63 Sydney to Johannesburg_takeoff.csv - Takeoff - Longitude - MSE: 0.00019206655221809006, RMSE: 0.013858807748796073, MAE: 0.01229832761342906
+Interpolated_LLH_SH Flight QF63 Sydney to Johannesburg_takeoff.csv - Takeoff - Altitude (m) - MSE: 6114.593770504327, RMSE: 78.19586798868804, MAE: 71.22490685375975
+Interpolated_LLH_SH Flight QF63 Sydney to Johannesburg_takeoff.csv - Takeoff - Total - MSE: 2038.1980619270641, RMSE: 26.074889007029153, MAE: 23.75061446974763
+Interpolated_LLH_SH Flight DT747 Luanda to Sao Paulo_takeoff.csv - Takeoff - Latitude - MSE: 0.0001923863950483608, RMSE: 0.01387034228302823, MAE: 0.012830227869370742
+Interpolated_LLH_SH Flight DT747 Luanda to Sao Paulo_takeoff.csv - Takeoff - Longitude - MSE: 0.0036856588454003375, RMSE: 0.06070962728760849, MAE: 0.053212653872031605
+Interpolated_LLH_SH Flight DT747 Luanda to Sao Paulo_takeoff.csv - Takeoff - Altitude (m) - MSE: 1955.835027325417, RMSE: 44.22482365510819, MAE: 39.94436894876983
+Interpolated_LLH_SH Flight DT747 Luanda to Sao Paulo_takeoff.csv - Takeoff - Total - MSE: 651.9463017902192, RMSE: 14.76646787489294, MAE: 13.336803943503744
+Interpolated_LLH_SH Flight LA801 Auckland to Sydney_takeoff.csv - Takeoff - Latitude - MSE: 6.995226035508566e-05, RMSE: 0.008363746789273672, MAE: 0.007338257863976002
+Interpolated_LLH_SH Flight LA801 Auckland to Sydney_takeoff.csv - Takeoff - Longitude - MSE: 7.723009333167662e-06, RMSE: 0.00277903028647902, MAE: 0.002430457462001338
+Interpolated_LLH_SH Flight LA801 Auckland to Sydney_takeoff.csv - Takeoff - Altitude (m) - MSE: 2969.9268982133653, RMSE: 54.49703568280907, MAE: 44.19617029518995
+Interpolated_LLH_SH Flight LA801 Auckland to Sydney_takeoff.csv - Takeoff - Total - MSE: 989.9756586295449, RMSE: 18.169392819961608, MAE: 14.73531300350531
+Interpolated_LLH_SH Flight DT578 Johannesburg to Luanda_takeoff.csv - Takeoff - Latitude - MSE: 0.0009336237621487345, RMSE: 0.0305552575205763, MAE: 0.028137915584505527
+Interpolated_LLH_SH Flight DT578 Johannesburg to Luanda_takeoff.csv - Takeoff - Longitude - MSE: 8.70682244414773e-05, RMSE: 0.009331035550327589, MAE: 0.00866913378790041
+Interpolated_LLH_SH Flight DT578 Johannesburg to Luanda_takeoff.csv - Takeoff - Altitude (m) - MSE: 4712.368420242484, RMSE: 68.646692711612, MAE: 62.23146638941549
+Interpolated_LLH_SH Flight DT578 Johannesburg to Luanda_takeoff.csv - Takeoff - Total - MSE: 1570.7898136448237, RMSE: 22.895526334894303, MAE: 20.75609114626263
+Interpolated_LLH_FFlight DTA747 Luanda to Sao Paulo_takeoff.csv - Takeoff - Latitude - MSE: 2.881347912796356e-07, RMSE: 0.0005367818842692398, MAE: 0.00047239334269516786
+Interpolated_LLH_FFlight DTA747 Luanda to Sao Paulo_takeoff.csv - Takeoff - Longitude - MSE: 0.0010318527666468983, RMSE: 0.03212246513963239, MAE: 0.029764075064561725
+Interpolated_LLH_FFlight DTA747 Luanda to Sao Paulo_takeoff.csv - Takeoff - Altitude (m) - MSE: 670.3553829538492, RMSE: 25.89122212167377, MAE: 25.716925561246743
+Interpolated_LLH_FFlight DTA747 Luanda to Sao Paulo_takeoff.csv - Takeoff - Total - MSE: 223.4521383649169, RMSE: 8.641293789565891, MAE: 8.582387343218
+Interpolated_LLH_Flight LA801 Santiago to Auckland_takeoff.csv - Takeoff - Latitude - MSE: 0.0002753384456064084, RMSE: 0.016593325332988816, MAE: 0.013455306938404432
+Interpolated_LLH_Flight LA801 Santiago to Auckland_takeoff.csv - Takeoff - Longitude - MSE: 5.4521059552510264e-05, RMSE: 0.007383837725228681, MAE: 0.006423967669511438
+Interpolated_LLH_Flight LA801 Santiago to Auckland_takeoff.csv - Takeoff - Altitude (m) - MSE: 634.6901647263373, RMSE: 25.193057867720967, MAE: 19.697813522287884
+Interpolated_LLH_Flight LA801 Santiago to Auckland_takeoff.csv - Takeoff - Total - MSE: 211.56349819528086, RMSE: 8.405678343593062, MAE: 6.572564265631933
+Interpolated_LLH_SH Flight LA801 Santiago to Auckland_cruise.csv - Cruise - Latitude - MSE: 0.22060635786796104, RMSE: 0.46968751087075017, MAE: 0.2688523451890516
+Interpolated_LLH_SH Flight LA801 Santiago to Auckland_cruise.csv - Cruise - Longitude - MSE: 2157.721518388987, RMSE: 46.45128112753175, MAE: 23.672466367108182
+Interpolated_LLH_SH Flight LA801 Santiago to Auckland_cruise.csv - Cruise - Altitude (m) - MSE: 13242.85380253892, RMSE: 115.07759904750759, MAE: 57.48818351862074
+Interpolated_LLH_SH Flight LA801 Santiago to Auckland_cruise.csv - Cruise - Total - MSE: 5133.598642428592, RMSE: 53.999522561970025, MAE: 27.143167410305992
+Interpolated_LLH_FFlight DTA747 Luanda to Sao Paulo_cruise.csv - Cruise - Latitude - MSE: 0.0016122872193802102, RMSE: 0.04015329649456206, MAE: 0.02934655027203412
+Interpolated_LLH_FFlight DTA747 Luanda to Sao Paulo_cruise.csv - Cruise - Longitude - MSE: 0.008419486887093243, RMSE: 0.0917577619991532, MAE: 0.08428650150039413
+Interpolated_LLH_FFlight DTA747 Luanda to Sao Paulo_cruise.csv - Cruise - Altitude (m) - MSE: 4.340469603658108, RMSE: 2.0833793710359396, MAE: 1.7690547061231985
+Interpolated_LLH_FFlight DTA747 Luanda to Sao Paulo_cruise.csv - Cruise - Total - MSE: 1.4501671259215272, RMSE: 0.7384301431765516, MAE: 0.6275625859652089
+Interpolated_LLH_SH Flight LA801 Auckland to Sydney_cruise.csv - Cruise - Latitude - MSE: 0.0003008356506129632, RMSE: 0.017344614455587163, MAE: 0.014239287029741065
+Interpolated_LLH_SH Flight LA801 Auckland to Sydney_cruise.csv - Cruise - Longitude - MSE: 0.04168849217507645, RMSE: 0.20417759959181725, MAE: 0.1033268786943719
+Interpolated_LLH_SH Flight LA801 Auckland to Sydney_cruise.csv - Cruise - Altitude (m) - MSE: 0.08217182613893019, RMSE: 0.286656285713274, MAE: 0.12090508115032554
+Interpolated_LLH_SH Flight LA801 Auckland to Sydney_cruise.csv - Cruise - Total - MSE: 0.041387051321539865, RMSE: 0.16939283325355947, MAE: 0.07949041562481284
+Interpolated_LLH_SH Flight DT578 Johannesburg to Luanda_cruise.csv - Cruise - Latitude - MSE: 0.03287688066819696, RMSE: 0.18131982977103459, MAE: 0.16640160565232476
+Interpolated_LLH_SH Flight DT578 Johannesburg to Luanda_cruise.csv - Cruise - Longitude - MSE: 0.002214819539794439, RMSE: 0.04706186927645819, MAE: 0.03967151429451704
+Interpolated_LLH_SH Flight DT578 Johannesburg to Luanda_cruise.csv - Cruise - Altitude (m) - MSE: 0.005259045863895594, RMSE: 0.07251927925659213, MAE: 0.025398935687732615
+Interpolated_LLH_SH Flight DT578 Johannesburg to Luanda_cruise.csv - Cruise - Total - MSE: 0.013450248690628996, RMSE: 0.10030032610136164, MAE: 0.07715735187819146
+Interpolated_LLH_Flight LA801 Santiago to Auckland_cruise.csv - Cruise - Latitude - MSE: 0.0041662156647991585, RMSE: 0.06454622889680821, MAE: 0.037125003100503214
+Interpolated_LLH_Flight LA801 Santiago to Auckland_cruise.csv - Cruise - Longitude - MSE: 2630.84864985207, RMSE: 51.291799050648144, MAE: 25.270152359925433
+Interpolated_LLH_Flight LA801 Santiago to Auckland_cruise.csv - Cruise - Altitude (m) - MSE: 19983.31333572867, RMSE: 141.36234765922882, MAE: 69.662543676492
+Interpolated_LLH_Flight LA801 Santiago to Auckland_cruise.csv - Cruise - Total - MSE: 7538.055383932136, RMSE: 64.23956431292459, MAE: 31.656607013172646
+Interpolated_LLH_SH Flight H2601 Sao Paulo to Santiago_cruise.csv - Cruise - Latitude - MSE: 0.014214346852397485, RMSE: 0.11922393573606553, MAE: 0.11303090460052939
+Interpolated_LLH_SH Flight H2601 Sao Paulo to Santiago_cruise.csv - Cruise - Longitude - MSE: 0.0963911598881171, RMSE: 0.31046925755719695, MAE: 0.29729214855775915
+Interpolated_LLH_SH Flight H2601 Sao Paulo to Santiago_cruise.csv - Cruise - Altitude (m) - MSE: 16.497207964041472, RMSE: 4.061675511909029, MAE: 2.5345539948125566
+Interpolated_LLH_SH Flight H2601 Sao Paulo to Santiago_cruise.csv - Cruise - Total - MSE: 5.535937823593996, RMSE: 1.4971229017340972, MAE: 0.9816256826569484
+Interpolated_LLH_SH Flight DT747 Luanda to Sao Paulo_cruise.csv - Cruise - Latitude - MSE: 0.0003803758388017038, RMSE: 0.019503226369031967, MAE: 0.01614738387606875
+Interpolated_LLH_SH Flight DT747 Luanda to Sao Paulo_cruise.csv - Cruise - Longitude - MSE: 0.7062875218670837, RMSE: 0.8404091395666063, MAE: 0.7308335905367256
+Interpolated_LLH_SH Flight DT747 Luanda to Sao Paulo_cruise.csv - Cruise - Altitude (m) - MSE: 11.292543600160053, RMSE: 3.360438007188952, MAE: 3.323458868389312
+Interpolated_LLH_SH Flight DT747 Luanda to Sao Paulo_cruise.csv - Cruise - Total - MSE: 3.999737165955313, RMSE: 1.4067834577081968, MAE: 1.3568132809340356
+Interpolated_LLH_LA801 Santiago Auckland 27 Sep 23_cruise.csv - Cruise - Latitude - MSE: 0.12185767501359214, RMSE: 0.3490811868514145, MAE: 0.18951906531060192
+Interpolated_LLH_LA801 Santiago Auckland 27 Sep 23_cruise.csv - Cruise - Longitude - MSE: 10945.997124124948, RMSE: 104.62311945323054, MAE: 49.61188741075146
+Interpolated_LLH_LA801 Santiago Auckland 27 Sep 23_cruise.csv - Cruise - Altitude (m) - MSE: 27293.95707821355, RMSE: 165.20882869330424, MAE: 77.11570381158451
+Interpolated_LLH_LA801 Santiago Auckland 27 Sep 23_cruise.csv - Cruise - Total - MSE: 12746.692020004504, RMSE: 90.06034311112874, MAE: 42.30570342921552
+Interpolated_LLH_Flight QFA14 Buenos Aires to Darwin_cruise.csv - Cruise - Latitude - MSE: 2.4015038709876357, RMSE: 1.5496786347458094, MAE: 1.331161278404234
+Interpolated_LLH_Flight QFA14 Buenos Aires to Darwin_cruise.csv - Cruise - Longitude - MSE: 33.93948820966016, RMSE: 5.825760740852663, MAE: 5.1414615740621885
+Interpolated_LLH_Flight QFA14 Buenos Aires to Darwin_cruise.csv - Cruise - Altitude (m) - MSE: 527.0814314729972, RMSE: 22.958254103328443, MAE: 21.433092197307012
+Interpolated_LLH_Flight QFA14 Buenos Aires to Darwin_cruise.csv - Cruise - Total - MSE: 187.80747451788167, RMSE: 10.111231159642305, MAE: 9.301905016591144
+Interpolated_LLH_SH Flight QF63 Sydney to Johannesburg_cruise.csv - Cruise - Latitude - MSE: 0.0989470713353868, RMSE: 0.3145585340368098, MAE: 0.2463221964541413
+Interpolated_LLH_SH Flight QF63 Sydney to Johannesburg_cruise.csv - Cruise - Longitude - MSE: 0.14428740606086107, RMSE: 0.37985182118934363, MAE: 0.3312196274974867
+Interpolated_LLH_SH Flight QF63 Sydney to Johannesburg_cruise.csv - Cruise - Altitude (m) - MSE: 399.14999410515406, RMSE: 19.978738551398937, MAE: 16.955853939624234
+Interpolated_LLH_SH Flight QF63 Sydney to Johannesburg_cruise.csv - Cruise - Total - MSE: 133.13107619418344, RMSE: 6.891049635541697, MAE: 5.844465254525287
+Interpolated_LLH_Flight LA801 Santiago to Auckland_landing.csv - Landing - Latitude - MSE: 0.0008341717362922056, RMSE: 0.028882031374060337, MAE: 0.0254685272340499
+Interpolated_LLH_Flight LA801 Santiago to Auckland_landing.csv - Landing - Longitude - MSE: 0.026463033090922603, RMSE: 0.16267462337722685, MAE: 0.13103615929062215
+Interpolated_LLH_Flight LA801 Santiago to Auckland_landing.csv - Landing - Altitude (m) - MSE: 105072.59383434855, RMSE: 324.1490302844489, MAE: 238.79476595101156
+Interpolated_LLH_Flight LA801 Santiago to Auckland_landing.csv - Landing - Total - MSE: 35024.20704385112, RMSE: 108.1135289797334, MAE: 79.65042354584541
+Interpolated_LLH_SH Flight DT578 Johannesburg to Luanda_landing.csv - Landing - Latitude - MSE: 0.0021066341081839865, RMSE: 0.04589808392715306, MAE: 0.03618353602346411
+Interpolated_LLH_SH Flight DT578 Johannesburg to Luanda_landing.csv - Landing - Longitude - MSE: 0.0007298514956370444, RMSE: 0.02701576383589856, MAE: 0.02126760619197422
+Interpolated_LLH_SH Flight DT578 Johannesburg to Luanda_landing.csv - Landing - Altitude (m) - MSE: 4249.724337137005, RMSE: 65.1899097800956, MAE: 54.33817976475328
+Interpolated_LLH_SH Flight DT578 Johannesburg to Luanda_landing.csv - Landing - Total - MSE: 1416.5757245408695, RMSE: 21.75427454261955, MAE: 18.131876968989573
+Interpolated_LLH_FFlight DTA747 Luanda to Sao Paulo_landing.csv - Landing - Latitude - MSE: 0.00016790418569591426, RMSE: 0.012957784752646351, MAE: 0.011055816534351025
+Interpolated_LLH_FFlight DTA747 Luanda to Sao Paulo_landing.csv - Landing - Longitude - MSE: 0.001926773284836424, RMSE: 0.04389502574138013, MAE: 0.042439943529457055
+Interpolated_LLH_FFlight DTA747 Luanda to Sao Paulo_landing.csv - Landing - Altitude (m) - MSE: 2631.6900113849324, RMSE: 51.300000110964255, MAE: 47.6855325626216
+Interpolated_LLH_FFlight DTA747 Luanda to Sao Paulo_landing.csv - Landing - Total - MSE: 877.230702020801, RMSE: 17.118950973819427, MAE: 15.913009440895138
+Interpolated_LLH_SH Flight LA801 Auckland to Sydney_landing.csv - Landing - Latitude - MSE: 0.001106315003314258, RMSE: 0.033261313914430046, MAE: 0.02772883417653673
+Interpolated_LLH_SH Flight LA801 Auckland to Sydney_landing.csv - Landing - Longitude - MSE: 0.017980578029788467, RMSE: 0.13409167770517477, MAE: 0.1115762652210235
+Interpolated_LLH_SH Flight LA801 Auckland to Sydney_landing.csv - Landing - Altitude (m) - MSE: 19577.004830621685, RMSE: 139.91785029302616, MAE: 129.32023776022606
+Interpolated_LLH_SH Flight LA801 Auckland to Sydney_landing.csv - Landing - Total - MSE: 6525.674639171572, RMSE: 46.695067761548586, MAE: 43.15318095320787
+Interpolated_LLH_SH Flight DT747 Luanda to Sao Paulo_landing.csv - Landing - Latitude - MSE: 0.00035728633059650125, RMSE: 0.018902019220086018, MAE: 0.016311286903432504
+Interpolated_LLH_SH Flight DT747 Luanda to Sao Paulo_landing.csv - Landing - Longitude - MSE: 0.0037828791283582657, RMSE: 0.06150511465202114, MAE: 0.06054525040523478
+Interpolated_LLH_SH Flight DT747 Luanda to Sao Paulo_landing.csv - Landing - Altitude (m) - MSE: 6919.969616247371, RMSE: 83.18635474792347, MAE: 69.71030774446594
+Interpolated_LLH_SH Flight DT747 Luanda to Sao Paulo_landing.csv - Landing - Total - MSE: 2306.6579188042765, RMSE: 27.755587293931857, MAE: 23.26238809392487
+Interpolated_LLH_SH Flight LA801 Santiago to Auckland_landing.csv - Landing - Latitude - MSE: 0.0016526856118177532, RMSE: 0.040653236178904054, MAE: 0.0347474867325394
+Interpolated_LLH_SH Flight LA801 Santiago to Auckland_landing.csv - Landing - Longitude - MSE: 0.015240368027610742, RMSE: 0.12345188547612686, MAE: 0.10004121337957513
+Interpolated_LLH_SH Flight LA801 Santiago to Auckland_landing.csv - Landing - Altitude (m) - MSE: 111558.44163457569, RMSE: 334.0036551215805, MAE: 248.487214923939
+Interpolated_LLH_SH Flight LA801 Santiago to Auckland_landing.csv - Landing - Total - MSE: 37186.15284254311, RMSE: 111.38925341441184, MAE: 82.87400120801705
+Interpolated_LLH_LA801 Santiago Auckland 27 Sep 23_landing.csv - Landing - Latitude - MSE: 0.0002452305204468441, RMSE: 0.015659837816747787, MAE: 0.01347029584076039
+Interpolated_LLH_LA801 Santiago Auckland 27 Sep 23_landing.csv - Landing - Longitude - MSE: 0.005295211463644281, RMSE: 0.07276820365822068, MAE: 0.06897984082784737
+Interpolated_LLH_LA801 Santiago Auckland 27 Sep 23_landing.csv - Landing - Altitude (m) - MSE: 1547.6711827976644, RMSE: 39.340452244447626, MAE: 33.68004941665836
+Interpolated_LLH_LA801 Santiago Auckland 27 Sep 23_landing.csv - Landing - Total - MSE: 515.8922410798829, RMSE: 13.142960095307531, MAE: 11.254166517775657
+Interpolated_LLH_SH Flight QF63 Sydney to Johannesburg_landing.csv - Landing - Latitude - MSE: 0.009121876860709704, RMSE: 0.09550851721553269, MAE: 0.08363314041550739
+Interpolated_LLH_SH Flight QF63 Sydney to Johannesburg_landing.csv - Landing - Longitude - MSE: 0.001813991228842211, RMSE: 0.042590975908544416, MAE: 0.03480866629278669
+Interpolated_LLH_SH Flight QF63 Sydney to Johannesburg_landing.csv - Landing - Altitude (m) - MSE: 25862.204716644093, RMSE: 160.81730229252105, MAE: 144.43609412199757
+Interpolated_LLH_SH Flight QF63 Sydney to Johannesburg_landing.csv - Landing - Total - MSE: 8620.738550837394, RMSE: 53.65180059521504, MAE: 48.18484530956862
+Interpolated_LLH_Flight QFA14 Buenos Aires to Darwin_landing.csv - Landing - Latitude - MSE: 0.0006882103646027718, RMSE: 0.02623376382837148, MAE: 0.02551452450779107
+Interpolated_LLH_Flight QFA14 Buenos Aires to Darwin_landing.csv - Landing - Longitude - MSE: 0.0005632080508847599, RMSE: 0.023732004780143624, MAE: 0.02220413358314944
+Interpolated_LLH_Flight QFA14 Buenos Aires to Darwin_landing.csv - Landing - Altitude (m) - MSE: 154.31382262195618, RMSE: 12.422311484661629, MAE: 9.235065180254342
+Interpolated_LLH_Flight QFA14 Buenos Aires to Darwin_landing.csv - Landing - Total - MSE: 51.43835801345722, RMSE: 4.157425751090048, MAE: 3.094261279448427
+Interpolated_LLH_SH Flight H2601 Sao Paulo to Santiago_landing.csv - Landing - Latitude - MSE: 9.50932283440268e-06, RMSE: 0.0030837189940723653, MAE: 0.0025568151207264233
+Interpolated_LLH_SH Flight H2601 Sao Paulo to Santiago_landing.csv - Landing - Longitude - MSE: 6.626675369828752e-05, RMSE: 0.008140439404497003, MAE: 0.0068480113339077775
+Interpolated_LLH_SH Flight H2601 Sao Paulo to Santiago_landing.csv - Landing - Altitude (m) - MSE: 11560.673160850969, RMSE: 107.52057087297746, MAE: 104.78890841511404
+Interpolated_LLH_SH Flight H2601 Sao Paulo to Santiago_landing.csv - Landing - Total - MSE: 3853.5577455423486, RMSE: 35.84393167712535, MAE: 34.93277108052289

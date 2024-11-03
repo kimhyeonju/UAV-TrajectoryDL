@@ -1,0 +1,240 @@
+
+File: Interpolated_LLH_LA801 Santiago Auckland 27 Sep 23_takeoff.csv, Phase: Takeoff
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Loss: 2.6666959456633776e-05, Accuracy: 1.0
+
+File: Interpolated_LLH_SH Flight LA801 Santiago to Auckland_takeoff.csv, Phase: Takeoff
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Loss: 3.089385063503869e-05, Accuracy: 1.0
+
+File: Interpolated_LLH_SH Flight H2601 Sao Paulo to Santiago_takeoff.csv, Phase: Takeoff
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Loss: 0.00010006452794186771, Accuracy: 1.0
+
+File: Interpolated_LLH_Flight QFA14 Buenos Aires to Darwin_takeoff.csv, Phase: Takeoff
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Loss: 7.19612289685756e-05, Accuracy: 1.0
+
+File: Interpolated_LLH_SH Flight QF63 Sydney to Johannesburg_takeoff.csv, Phase: Takeoff
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Loss: 6.455984112108126e-05, Accuracy: 1.0
+
+File: Interpolated_LLH_SH Flight DT747 Luanda to Sao Paulo_takeoff.csv, Phase: Takeoff
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Loss: 6.15210592513904e-05, Accuracy: 1.0
+
+File: Interpolated_LLH_SH Flight LA801 Auckland to Sydney_takeoff.csv, Phase: Takeoff
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Loss: 1.763084583217278e-05, Accuracy: 1.0
+
+File: Interpolated_LLH_SH Flight DT578 Johannesburg to Luanda_takeoff.csv, Phase: Takeoff
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Loss: 1.0887101780099329e-05, Accuracy: 1.0
+
+File: Interpolated_LLH_FFlight DTA747 Luanda to Sao Paulo_takeoff.csv, Phase: Takeoff
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Loss: 4.180193354841322e-05, Accuracy: 1.0
+
+File: Interpolated_LLH_Flight LA801 Santiago to Auckland_takeoff.csv, Phase: Takeoff
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Actual: 0, Predicted: 0
+Loss: 3.944556010537781e-05, Accuracy: 1.0
+
+File: Interpolated_LLH_SH Flight LA801 Santiago to Auckland_cruise.csv, Phase: Cruise
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Loss: 0.0, Accuracy: 1.0
+
+File: Interpolated_LLH_FFlight DTA747 Luanda to Sao Paulo_cruise.csv, Phase: Cruise
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Loss: 7.37840252895694e-07, Accuracy: 1.0
+
+File: Interpolated_LLH_SH Flight LA801 Auckland to Sydney_cruise.csv, Phase: Cruise
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Loss: 8.928528586693574e-06, Accuracy: 1.0
+
+File: Interpolated_LLH_SH Flight DT578 Johannesburg to Luanda_cruise.csv, Phase: Cruise
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Loss: 6.885430138936499e-06, Accuracy: 1.0
+
+File: Interpolated_LLH_Flight LA801 Santiago to Auckland_cruise.csv, Phase: Cruise
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Loss: 4.059805647216308e-08, Accuracy: 1.0
+
+File: Interpolated_LLH_SH Flight H2601 Sao Paulo to Santiago_cruise.csv, Phase: Cruise
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Loss: 3.9731376091367565e-06, Accuracy: 1.0
+
+File: Interpolated_LLH_SH Flight DT747 Luanda to Sao Paulo_cruise.csv, Phase: Cruise
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Loss: 8.131609661177208e-07, Accuracy: 1.0
+
+File: Interpolated_LLH_LA801 Santiago Auckland 27 Sep 23_cruise.csv, Phase: Cruise
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Loss: 0.0, Accuracy: 1.0
+
+File: Interpolated_LLH_Flight QFA14 Buenos Aires to Darwin_cruise.csv, Phase: Cruise
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Loss: 0.0, Accuracy: 1.0
+
+File: Interpolated_LLH_SH Flight QF63 Sydney to Johannesburg_cruise.csv, Phase: Cruise
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Actual: 1, Predicted: 1
+Loss: 0.0, Accuracy: 1.0
+
+File: Interpolated_LLH_Flight LA801 Santiago to Auckland_landing.csv, Phase: Landing
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Loss: 4.6263310650829226e-05, Accuracy: 1.0
+
+File: Interpolated_LLH_SH Flight DT578 Johannesburg to Luanda_landing.csv, Phase: Landing
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Loss: 8.906183211365715e-05, Accuracy: 1.0
+
+File: Interpolated_LLH_FFlight DTA747 Luanda to Sao Paulo_landing.csv, Phase: Landing
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Loss: 0.00047927393461577594, Accuracy: 1.0
+
+File: Interpolated_LLH_SH Flight LA801 Auckland to Sydney_landing.csv, Phase: Landing
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Loss: 0.000140271513373591, Accuracy: 1.0
+
+File: Interpolated_LLH_SH Flight DT747 Luanda to Sao Paulo_landing.csv, Phase: Landing
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Loss: 0.0004869890690315515, Accuracy: 1.0
+
+File: Interpolated_LLH_SH Flight LA801 Santiago to Auckland_landing.csv, Phase: Landing
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Loss: 5.146430339664221e-05, Accuracy: 1.0
+
+File: Interpolated_LLH_LA801 Santiago Auckland 27 Sep 23_landing.csv, Phase: Landing
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Loss: 6.54315299470909e-05, Accuracy: 1.0
+
+File: Interpolated_LLH_SH Flight QF63 Sydney to Johannesburg_landing.csv, Phase: Landing
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Loss: 9.971067629521713e-05, Accuracy: 1.0
+
+File: Interpolated_LLH_Flight QFA14 Buenos Aires to Darwin_landing.csv, Phase: Landing
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Loss: 6.622711953241378e-05, Accuracy: 1.0
+
+File: Interpolated_LLH_SH Flight H2601 Sao Paulo to Santiago_landing.csv, Phase: Landing
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Actual: 2, Predicted: 2
+Loss: 0.0009815534576773643, Accuracy: 1.0
